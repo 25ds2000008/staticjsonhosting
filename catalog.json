@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "email": "25ds2000008@ds.study.iitm.ac.in",
+    "version": "0230ef72"
+  },
+  "products": [
+    {
+      "id": "prod-0230ef72-001",
+      "name": "Elite Item 1",
+      "category": "clothing",
+      "price": 81.72,
+      "stock": 127,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-0230ef72-002",
+      "name": "Standard Item 2",
+      "category": "clothing",
+      "price": 78.69,
+      "stock": 196,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-0230ef72-003",
+      "name": "Elite Item 3",
+      "category": "clothing",
+      "price": 480.8,
+      "stock": 95,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-0230ef72-004",
+      "name": "Standard Item 4",
+      "category": "home",
+      "price": 81.67,
+      "stock": 71,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-0230ef72-005",
+      "name": "Basic Item 5",
+      "category": "home",
+      "price": 131.99,
+      "stock": 17,
+      "rating": 1.1
+    },
+    {
+      "id": "prod-0230ef72-006",
+      "name": "Premium Item 6",
+      "category": "electronics",
+      "price": 142.99,
+      "stock": 150,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-0230ef72-007",
+      "name": "Basic Item 7",
+      "category": "books",
+      "price": 400.9,
+      "stock": 44,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-0230ef72-008",
+      "name": "Premium Item 8",
+      "category": "sports",
+      "price": 494.21,
+      "stock": 103,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-0230ef72-009",
+      "name": "Standard Item 9",
+      "category": "books",
+      "price": 68.45,
+      "stock": 122,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-0230ef72-010",
+      "name": "Basic Item 10",
+      "category": "books",
+      "price": 236.25,
+      "stock": 49,
+      "rating": 3.5
+    },
+    {
+      "id": "prod-0230ef72-011",
+      "name": "Pro Item 11",
+      "category": "home",
+      "price": 385.3,
+      "stock": 188,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-0230ef72-012",
+      "name": "Basic Item 12",
+      "category": "books",
+      "price": 317.12,
+      "stock": 120,
+      "rating": 1.6
+    },
+    {
+      "id": "prod-0230ef72-013",
+      "name": "Premium Item 13",
+      "category": "sports",
+      "price": 450.61,
+      "stock": 33,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-0230ef72-014",
+      "name": "Premium Item 14",
+      "category": "clothing",
+      "price": 142.07,
+      "stock": 167,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-0230ef72-015",
+      "name": "Pro Item 15",
+      "category": "electronics",
+      "price": 119,
+      "stock": 24,
+      "rating": 4.8
+    },
+    {
+      "id": "prod-0230ef72-016",
+      "name": "Elite Item 16",
+      "category": "electronics",
+      "price": 40.44,
+      "stock": 22,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-0230ef72-017",
+      "name": "Basic Item 17",
+      "category": "clothing",
+      "price": 112.78,
+      "stock": 31,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-0230ef72-018",
+      "name": "Elite Item 18",
+      "category": "home",
+      "price": 418.24,
+      "stock": 0,
+      "rating": 5
+    },
+    {
+      "id": "prod-0230ef72-019",
+      "name": "Pro Item 19",
+      "category": "electronics",
+      "price": 360.68,
+      "stock": 95,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-0230ef72-020",
+      "name": "Elite Item 20",
+      "category": "sports",
+      "price": 84.92,
+      "stock": 9,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-0230ef72-021",
+      "name": "Premium Item 21",
+      "category": "clothing",
+      "price": 93.86,
+      "stock": 151,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-0230ef72-022",
+      "name": "Premium Item 22",
+      "category": "books",
+      "price": 102.16,
+      "stock": 59,
+      "rating": 3.6
+    }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 59458.78
+    }
+  }
+}
